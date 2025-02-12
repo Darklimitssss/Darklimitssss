@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Darklimitssss
-- 👀 I’m interested in(<i>See Below</i>)
--  <b>Music</b>; Def Leppard, Guns n Roses, Joe Bonamassa, Reignwolf, Alan Walker.
--  <b>Games</b>; Minecraft(Modded), NHL, Civilization, No Mans Sky
+- 👀 I’m interested in <sub>(*See Below*)</sub>
+-  **Music**; Def Leppard, Guns n Roses, Joe Bonamassa, Reignwolf, Alan Walker.
+-  **Games**; Minecraft(Modded), NHL, Civilization, No Mans Sky
 - 🌱 I’m currently learning coding in general, just starting off in this coding world.
 - ⚡ Fun fact: I have a printing background.
 
